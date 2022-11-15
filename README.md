@@ -15,7 +15,7 @@
 
 - ⚡ Link to: [My Linkedin](https://www.linkedin.com/in/dev-faiz/)</br>
 
-- 📫 How to reach me **https://www.linkedin.com/in//**
+- 
 
 - ⚡ Fun fact **I love coding but I don't want to be a coder**
 
