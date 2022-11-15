@@ -11,7 +11,11 @@
 
 - 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **https://www.linkedin.com/in/dev-faiz/**
+- ⚡ Link to: [My Portfolio](https://dev-faiz.github.io/)</br>
+
+- ⚡ Link to: [My Linkedin](https://www.linkedin.com/in/dev-faiz/)</br>
+
+- 📫 How to reach me **https://www.linkedin.com/in//**
 
 - ⚡ Fun fact **I love coding but I don't want to be a coder**
 
