@@ -15,8 +15,6 @@
 
 - ⚡ Link to: [My Linkedin](https://www.linkedin.com/in/dev-faiz/)</br>
 
-- 
-
 - ⚡ Fun fact **I love coding but I don't want to be a coder**
 
 
